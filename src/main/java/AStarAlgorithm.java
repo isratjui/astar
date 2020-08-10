@@ -15,7 +15,7 @@ class AStarAlgorithm {
     //h huredistic straight line
     public static void main(String[] args)throws IOException{
 
-
+//Node inputs
         Node n1=new Node("S",10);
 
         Node n2=new Node("A",4);
